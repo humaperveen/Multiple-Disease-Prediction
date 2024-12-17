@@ -1,5 +1,5 @@
 streamlit
 streamlit-option-menu==0.4.0
-python==3.12
+python==3.10.11
 scikit-learn==1.2.2
 
